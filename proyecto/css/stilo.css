@@ -1,0 +1,47 @@
+body
+{
+  background: aquamarine;
+  background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: black;
+}
+.gato1
+{
+  border-radius: 2em;
+}
+img
+{
+    width: 155px;
+    border-radius: 45%;
+    border-style: dotted;
+    border-color:blanchedalmond;
+    border-width: 5px;
+}
+#titulo_de_la_pagina
+{
+  font-size: 30px;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center; 
+}
+p,
+ol,
+li
+{
+  font-size: 25px;
+  font-family: 'Great Vibes', cursive;
+}
+.caja2
+{
+    width: 20em;
+    height: auto;
+    margin: auto;
+    padding: 2em;
+    border-radius: 2em;
+    float: right;
+    color: #ffffff;
+}
+h3
+{
+  color: #ffffff;
+}
